@@ -1,1 +1,3 @@
-# hello
+# HelloDeeplearning
+
+* Hallym university - jang minwook
